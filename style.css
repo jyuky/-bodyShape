@@ -1,0 +1,38 @@
+body {
+    font-family: 'Jost', sans-serif;
+    background: rgba(156, 3, 110, 0.377)  url(./Frame.png) no-repeat  ;
+    background-size: 200vh;
+    text-align: center;
+    
+
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+
+
+header {
+    padding-top: 10px;
+    font-size: 30px;
+    
+   
+    
+
+
+}
+
+div#explicacao{
+    
+    width: 400px;
+    text-align: right;
+    padding-left: 1000px;
+  
+    
+
+}
+
+
+
